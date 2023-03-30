@@ -11,4 +11,12 @@
 
 
 My projects:
+Pizza-Store
 ![Screnshot](https://github.com/aeronrus/pizza-store/blob/main/pizzaImage.jpg)
+
+SearchBoks with GoogleBooks API
+![Screnshot](https://github.com/aeronrus/searchbooks_forJS/blob/develop/fLUBZrXDoRw.jpg)
+
+Lending for watch-store
+![Screnshot](https://github.com/aeronrus/watch/blob/main/hM5EKXrf-q8.jpg)
+
